@@ -1,0 +1,18 @@
+.env-div {
+    width: 500px;
+    height: 232px;
+    position: relative;
+}
+.env-div .stamp {
+    position: absolute;
+   top: 30px;
+   right: 30px;
+}
+
+
+.address {
+    font-family: cursive;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
