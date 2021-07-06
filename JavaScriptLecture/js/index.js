@@ -152,5 +152,22 @@ console.log(myNumber2.toString(2))
 console.log(myNumber2.toString(8))
 console.log(myNumber2.toString(16))
 
-
-
+//String
+let myString = 'Hi Codeit';
+//문자열 길이
+console.log(myString.length)
+//요소 접근
+console.log(myString[3])
+console.log(myString.charAt(3))
+//요소 탐색
+console.log(myString.indexOf('i')) //앞부터
+console.log(myString.lastIndexOf('i'))//뒤부터
+//대소문자 변환
+console.log(myString.toUpperCase())
+console.log(myString.toLowerCase())
+//양쪽 공백 제거 
+console.log(myString.trim())
+// 부분 문자열 접근 slice(start, end)
+console.log(myString.slice(0, 2))
+console.log(myString.slice(3))
+console.log(myString.slice())                        
