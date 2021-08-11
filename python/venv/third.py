@@ -97,7 +97,7 @@ print(num)
 # sorted 기존의 리스트는 건드리지 않고 새로 정렬된 새로운 리스트를 리턴
 new_num = sorted(num) # 오름차순
 print(new_num)
-new_num = sorted(num, reverse=True) # 내림차순
+new_num = sorted(num, reverse=True) # 뒤집어진 순서로 배티
 print(new_num)
 # sort 기존 리스트를 정렬
 num2 = [2, 4, 8, 12, 7, 15]
