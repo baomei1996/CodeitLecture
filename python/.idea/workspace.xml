@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a3cf9bd-bf6e-4cda-8fcf-779e7c5852cf" name="Default Changelist" comment="python 기초 (module, input, import, strip)">
-      <change beforePath="$PROJECT_DIR$/venv/data/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/venv/data/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628780199520</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="python 기초 (module, input, import, strip)">
+      <created>1628861202770</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1628861202770</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
