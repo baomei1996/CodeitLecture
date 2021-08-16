@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a3cf9bd-bf6e-4cda-8fcf-779e7c5852cf" name="Default Changelist" comment="python 기초 (module, input, import, strip)">
+      <change beforePath="$PROJECT_DIR$/../codeit-django/costaurant/costaurant/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codeit-django/costaurant/costaurant/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeit-django/costaurant/costaurant/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codeit-django/costaurant/costaurant/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codeit-django/costaurant/foods/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../codeit-django/costaurant/foods/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +29,18 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/data/new_file.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/second.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/data/vocabulary.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/third.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/fourth.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/pyvenv.cfg" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/fifth.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/calculator.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/data/example.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/venv/sixth.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1wUnP6Jv93u5mKU0kWuJXSQAWQu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
