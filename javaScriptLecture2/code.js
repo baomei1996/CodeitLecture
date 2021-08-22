@@ -73,3 +73,16 @@ fetch('https://learn.codeit.kr/api/members', {
         console.log('This job will be done by server soon!');
       });
 
+
+async function fetchAndPrint() {
+  try {
+    const respose = await fetch('https://jsonplaceholder.typicode.com/users')
+    const result = await respose.text()
+    console.log(result)
+  } catch {
+    console.log(error)
+  } finally {
+    console.log('exit()')
+  }
+}
+
